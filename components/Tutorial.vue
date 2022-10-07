@@ -1,6 +1,10 @@
 <!-- Please remove this file from your project -->
 <template>
-  <nuxt-link to="/users">Users</nuxt-link>
+  <div>
+    <nuxt-link to="/users">Users</nuxt-link>
+    <nuxt-link to="/products">Products</nuxt-link>
+  </div>
+
 </template>
 
 <script>
